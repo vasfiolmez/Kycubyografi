@@ -175,5 +175,16 @@ namespace Kycubyografi
             }
         }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            menu menu = new menu();
+            menu.Show();
+            this.Hide();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

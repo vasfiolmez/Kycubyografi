@@ -211,5 +211,17 @@ namespace Kycubyografi
                 listBox3.Items.Clear();
             }
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            menu menu=new menu();
+            menu.Show();
+            this.Hide();
+        }
     }
 }

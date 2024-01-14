@@ -114,6 +114,7 @@
             pictureBox5.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox5.TabIndex = 52;
             pictureBox5.TabStop = false;
+            pictureBox5.Click += pictureBox5_Click_1;
             // 
             // pictureBox6
             // 
@@ -126,6 +127,7 @@
             pictureBox6.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox6.TabIndex = 51;
             pictureBox6.TabStop = false;
+            pictureBox6.Click += pictureBox6_Click_1;
             // 
             // button3
             // 

@@ -61,5 +61,17 @@ namespace Kycubyografi
             pictureBox9.Visible = false;
             pictureBox10.Visible = false;
         }
+
+        private void pictureBox5_Click_1(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void pictureBox6_Click_1(object sender, EventArgs e)
+        {
+            menu menu = new menu();
+            menu.Show();
+            this.Hide();
+        }
     }
 }

@@ -28,5 +28,17 @@ namespace Kycubyografi
         {
             richTextBox4.Text = aes.AesSifre_coz(richTextBox2.Text);
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            menu menu= new menu();
+            menu.Show();
+            this.Hide();
+        }
     }
 }
