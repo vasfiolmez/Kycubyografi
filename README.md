@@ -29,7 +29,7 @@
 ![inovasyonProje7](https://github.com/vasfiolmez/Kycubyografi/assets/58458944/ab5874c1-b58f-40fc-bde1-462b89fd4613)
 .
 .
-#proje hakkında
+# Proje hakkında
 Bugün sizlerle paylaşmak üzere geliştirdiğim projem hakkında detayları paylaşmak istiyorum. Proje, gizlilik odaklı bir iletişim anlayışını benimseyerek steganografiyi temel alan bir uygulamayı içermektedir. Steganografi, mesajların dışarıdan bakıldığında fark edilemeyecek bir şekilde gizlenmesi üzerine odaklanan bir sanat ve bilim dalıdır. Bu projede ise, gizli mesajları resim dosyalarının içine yerleştirme yöntemi kullanılarak iletişimi güvenli hale getirmeyi amaçladım.
 
 Proje, Visual Studio üzerinde geliştirilen bir Windows Form uygulaması olup, C# programlama dilini kullanmaktadır. Temel amacımız, mesajları resim formatındaki dosyaların içine gizleyerek, bu mesajın sadece belirlenen alıcı tarafından anlaşılabilir olmasını sağlamaktır. Bu sayede, bilgi transferini daha güvenli bir hale getirme hedeflenmektedir.
