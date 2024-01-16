@@ -1,5 +1,6 @@
 # Kycubyografi
 # Projeden Görseller
+# sunum linki: https://www.youtube.com/watch?v=Guoo1GJos9g
 
 1-Ana Sayfa
 ![inovasyonProje1](https://github.com/vasfiolmez/Kycubyografi/assets/58458944/7b0fee26-82c9-495d-8d54-186845bde4bc)
